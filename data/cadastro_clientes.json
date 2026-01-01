@@ -1,0 +1,41 @@
+[
+    {
+        "Id_cadastro": 70953,
+        "Nome": "Gruzod",
+        "CPF": 5645645664,
+        "Telefone": 5645646544,
+        "E-mail": "gruzod@gmail.com",
+        "Endereço": "Av. Abacateiros. n:238",
+        "Conta": [
+            {
+                "Id_cadastro": 85405,
+                "Cod_barra": 719411198494,
+                "Descrição": "Dipirona",
+                "Valor_unidade": 5.99,
+                "Qtd_comprado": 3,
+                "Pago": true,
+                "Data": "28-12-2025",
+                "Total": 17.97
+            },
+            {
+                "Id_cadastro": 10295,
+                "Cod_barra": 798794546,
+                "Descrição": "Ducolax",
+                "Valor_unidade": 19.9,
+                "Qtd_comprado": 2,
+                "Pago": false,
+                "Data": "1-1-2026",
+                "Total": 39.8
+            }
+        ]
+    },
+    {
+        "Id_cadastro": 97962,
+        "Nome": "Adalberto Costa",
+        "CPF": 654313213,
+        "Telefone": 6454654545,
+        "E-mail": "adalbertoc@gmail.com",
+        "Endereço": "Av. Augusto costa",
+        "Conta": []
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "Id_cadastro": 22629,
+        "Cod_barra": 7949849449494,
+        "Descrição": "Cimegripe",
+        "Quantidade": 18,
+        "Valor_unidade": 19.99
+    },
+    {
+        "Id_cadastro": 85405,
+        "Cod_barra": 719411198494,
+        "Descrição": "Dipirona",
+        "Quantidade": 14,
+        "Valor_unidade": 5.99
+    },
+    {
+        "Id_cadastro": 38598,
+        "Cod_barra": 78194949797987,
+        "Descrição": "Nimisulida",
+        "Quantidade": 30,
+        "Valor_unidade": 7.99
+    },
+    {
+        "Id_cadastro": 77702,
+        "Cod_barra": 728282828422,
+        "Descrição": "Ciclo 21",
+        "Quantidade": 19,
+        "Valor_unidade": 11.0
+    },
+    {
+        "Id_cadastro": 23201,
+        "Cod_barra": 751651695,
+        "Descrição": "Celetil",
+        "Quantidade": 18,
+        "Valor_unidade": 22.0
+    },
+    {
+        "Id_cadastro": 49194,
+        "Cod_barra": 71515484,
+        "Descrição": "Benegrip",
+        "Quantidade": 12,
+        "Valor_unidade": 12.99
+    },
+    {
+        "Id_cadastro": 10295,
+        "Cod_barra": 798794546,
+        "Descrição": "Ducolax",
+        "Quantidade": -100,
+        "Valor_unidade": 19.9
+    }
+]
